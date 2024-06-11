@@ -18,6 +18,7 @@
     "@modules/faq": "file:./modules/faq",
     "@modules/login": "file:./modules/login/",
     "@modules/maps": "file:./modules/maps/",
+    "@modules/onboarding": "file:./modules/onboarding/",
     "@modules/payments": "file:./modules/payments",
     "@modules/privacy-policy": "file:./modules/privacy-policy",
     "@modules/profile": "file:./modules/profile",
