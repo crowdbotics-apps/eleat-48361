@@ -75,6 +75,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-mapbox-maps](modules/mapbox-maps)
 - [react-native-privacy-policy-webview](modules/privacy-policy-webview)
 - [django-core](backend/modules)
+- [django-push-notifications](backend/modules)
 
 # Getting started: Frontend
 
